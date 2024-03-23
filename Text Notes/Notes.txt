@@ -1,0 +1,2 @@
+if u want to create a package.json file
+command : 'npm init'
